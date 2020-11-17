@@ -10,6 +10,8 @@ export const environment = {
     clientId,
     audience,
     redirectUri: window.location.origin,
+    scope: 'openid profile email offline_access',
+    useRefreshTokens: true,
   },
   httpInterceptor: {
     allowedList: [`${apiUri}/*`],

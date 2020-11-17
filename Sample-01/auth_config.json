@@ -1,0 +1,7 @@
+{
+  "domain": "saltukalakus.auth0.com",
+  "clientId": "JOu7nYFUCvx0Cbp6kC5dm0RymYuNGVT3",
+  "audience": "http://60sec",
+  "apiUri": "http://localhost:3001",
+  "appUri": "http://localhost:4200"
+}
